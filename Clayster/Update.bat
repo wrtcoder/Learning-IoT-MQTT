@@ -1,0 +1,5 @@
+copy "\My Projects\Nyttit-HA_0.6\Clayster.Library.Data\bin\MONO\Clayster.Library.Data.*"
+copy "\My Projects\Nyttit-HA_0.6\Clayster.Library.EventLog\bin\MONO\Clayster.Library.EventLog.*"
+copy "\My Projects\Nyttit-HA_0.6\Clayster.Library.Internet\bin\MONO\Clayster.Library.Internet.*"
+copy "\My Projects\Nyttit-HA_0.6\Clayster.Library.Language\bin\MONO\Clayster.Library.Language.*"
+copy "\My Projects\Nyttit-HA_0.6\Clayster.Library.Math\bin\MONO\Clayster.Library.Math.*"
