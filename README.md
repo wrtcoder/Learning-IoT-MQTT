@@ -1,7 +1,7 @@
 Learning-IoT-MQTT
 =================
 
-Source code for the MQTT chapter of the book "Learning Internet of Things".
+Source code for the MQTT chapter of the book [Learning Internet of Things](https://www.packtpub.com/application-development/learning-internet-things).
 
 This chapter covers the basics of the MQTT protocol. It also shows how to use MQTT in the **actuator**, **sensor** and **controller** projects, each running on separate Raspberry Pis.
 
