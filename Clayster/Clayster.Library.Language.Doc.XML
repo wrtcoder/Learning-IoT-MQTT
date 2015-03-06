@@ -13,7 +13,7 @@
             to be translated manually.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -48,7 +48,7 @@
             String for the common module
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -58,7 +58,7 @@
             Represents a string in a language module.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -151,7 +151,7 @@
             Class handling off-line caching of language content.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -181,7 +181,7 @@
             Special language module for common strings.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -191,7 +191,7 @@
             Class representing a language module.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -729,7 +729,7 @@
             Base class of all language attributes.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -739,7 +739,7 @@
             Class representing one component in a language module.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -833,7 +833,7 @@
             re-translation when a user changes his language settings.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -850,7 +850,7 @@
             Class representing a language.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -964,7 +964,7 @@
             Base class of all language attributes.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -986,7 +986,7 @@
             Base class for all language sensitive exceptions
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -1038,7 +1038,7 @@
             mathod that helps developers to easily translate strings and controls on the master page.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -1112,7 +1112,7 @@
             the language module.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -1197,7 +1197,7 @@
             Class representing a single property in a component.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -1253,7 +1253,7 @@
             Global Language settings.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -1280,7 +1280,7 @@
             the language module.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -1382,7 +1382,7 @@
             global collection of all strings of all supported languages.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>

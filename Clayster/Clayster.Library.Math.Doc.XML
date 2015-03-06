@@ -10,7 +10,7 @@
             it returns a new object that should replace the old object in future references.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -26,7 +26,7 @@
             Defines a canvas graph, i.e. a graph that can be drawn by script directly.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -36,7 +36,7 @@
             Base class for all graph classes.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -46,7 +46,7 @@
             Base interface of objects that support multiplication.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -89,7 +89,7 @@
             Base interface of objects that support division.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -127,7 +127,7 @@
             Base interface of objects that support addition.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -156,7 +156,7 @@
             Base interface of objects that support subtraction.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -1753,7 +1753,7 @@
             Contains a complex number.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -1763,7 +1763,7 @@
             Base interface of objects that support negation.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -1779,7 +1779,7 @@
             Base interface of objects that support inversion.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -1795,7 +1795,7 @@
             Interface of objects that can export a layout.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -2231,7 +2231,7 @@
             Maintains a context for script execution of sum and product loops.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2241,7 +2241,7 @@
             Maintains a context for script execution.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2339,7 +2339,7 @@
             Maintains a context for script execution of the pre/post increment/decrement operators.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2378,7 +2378,7 @@
             Maintains a context for script execution of series defined using a loop variable.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2414,7 +2414,7 @@
             Maintains a context for script execution of binary operator assignments.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2451,7 +2451,7 @@
             Maintains a context for script execution of the indexed object property operator.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2488,7 +2488,7 @@
             Maintains a context for script execution of the object method operator.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2530,7 +2530,7 @@
             Maintains a context for script execution of the object property operator.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2567,7 +2567,7 @@
             Maintains a context for script execution of the IsDefined() function.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2577,7 +2577,7 @@
             Maintains a context for script execution of functions.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2632,7 +2632,7 @@
             Maintains a context for script execution of try-catch-finally statements.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2673,7 +2673,7 @@
             Maintains a context for script execution of for loops.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2709,7 +2709,7 @@
             Maintains a context for script execution of for-each loops.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2746,7 +2746,7 @@
             Maintains a context for script execution of while loops.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2782,7 +2782,7 @@
             Maintains a context for script execution of conditional statements.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2818,7 +2818,7 @@
             Maintains a context for script execution of external function evaluation.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2860,7 +2860,7 @@
             Maintains a context for script execution of dynamic function evaluation.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2902,7 +2902,7 @@
             Maintains a context for script execution of the lambda power operator.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2939,7 +2939,7 @@
             Maintains a context for script execution of binary operator assignments.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2976,7 +2976,7 @@
             Maintains a context for script execution of multi-nodes.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -3013,7 +3013,7 @@
             Maintains a context for script execution of binary operators.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -3049,7 +3049,7 @@
             Maintains a context for script execution of unary operators.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -3085,7 +3085,7 @@
             Maintains a context for script execution of sequences of nodes.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -3122,7 +3122,7 @@
             Maintains a context for script execution of leaf nodes.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -3158,7 +3158,7 @@
             Maintains an environment for script execution and control.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -3256,7 +3256,7 @@
             that variable takes precedence.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -3267,7 +3267,7 @@
             that variable takes precedence.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -3277,7 +3277,7 @@
             Contains a reference to a variable.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -3287,7 +3287,7 @@
             Base class of all expression nodes.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -3297,7 +3297,7 @@
             Interface of objects that can export a layout.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -4125,7 +4125,7 @@
             Base class of expression nodes with multiple child nodes.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -4172,7 +4172,7 @@
             i.e. the expression owner implements <see cref="T:Clayster.Library.Math.Interfaces.IAsynchronousContext"/>.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -4182,7 +4182,7 @@
             Base class for all multiple scalar variable functions.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -4192,7 +4192,7 @@
             Base class for all functions.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -4439,7 +4439,7 @@
             Clears any asynchronous results forcing recalculations of existing ones.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -4449,7 +4449,7 @@
             Base class for all functions without parameters.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -4537,7 +4537,7 @@
             Sends a status message to any status recipitens.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -4547,7 +4547,7 @@
             Base class for all single scalar variable functions.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -4711,7 +4711,7 @@
             Creates a new color by blending two existing colors.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -4782,7 +4782,7 @@
             Creates a pie chart.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -4892,7 +4892,7 @@
             Performs an image convolution operation.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -4902,7 +4902,7 @@
             Base class for all two scalar variable functions.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -5051,7 +5051,7 @@
             Returns a real-valued matrix containing the blue component of an image.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -5083,7 +5083,7 @@
             Returns a real-valued matrix containing the red component of an image.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -5115,7 +5115,7 @@
             Creates an image of real-value matrix components
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -5155,7 +5155,7 @@
             Returns a real-valued matrix containing the green component of an image.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -5187,7 +5187,7 @@
             Returns a real-valued matrix containing the red component of an image.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -5219,7 +5219,7 @@
             Creates a graph legend.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -5260,7 +5260,7 @@
             Calculates the SHA512 Hash value of its parameter. 
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -5313,7 +5313,7 @@
             Calculates the SHA384 Hash value of its parameter. 
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -5366,7 +5366,7 @@
             Calculates the SHA256 Hash value of its parameter. 
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -5419,7 +5419,7 @@
             Calculates the SHA1 Hash value of its parameter. 
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -5472,7 +5472,7 @@
             Computes Β(p,q).
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -5510,7 +5510,7 @@
             Returns a lambda expression of the distribution function of a distribution modelled using line segments.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -5520,7 +5520,7 @@
             Base class for all two vector variable functions.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -5643,7 +5643,7 @@
             Distribution function of a distribution modelled using line segments.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -5653,7 +5653,7 @@
             Base class for Probability density functions.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -5663,7 +5663,7 @@
             Interface for lambda expressions.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -5815,7 +5815,7 @@
             Probability density function of the probability density function of a distribution modelled using line segments.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -5842,7 +5842,7 @@
             Returns a lambda expression of the probability density function of a distribution modelled using line segments.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -5875,7 +5875,7 @@
             Computes the correlation matrix for a sequence of variates of the same length.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -5885,7 +5885,7 @@
             Base class for all multiple vector variable functions.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -6013,7 +6013,7 @@
             http://mathworld.wolfram.com/CovarianceMatrix.html
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6056,7 +6056,7 @@
             http://mathworld.wolfram.com/StatisticalCorrelation.html
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6117,7 +6117,7 @@
             http://mathworld.wolfram.com/Covariance.html
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6178,7 +6178,7 @@
             http://mathworld.wolfram.com/LogarithmicDistribution.html
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6213,7 +6213,7 @@
             http://mathworld.wolfram.com/LogarithmicDistribution.html
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6242,7 +6242,7 @@
             http://mathworld.wolfram.com/LogarithmicDistribution.html
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6277,7 +6277,7 @@
             http://mathworld.wolfram.com/LogarithmicDistribution.html
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6306,7 +6306,7 @@
             http://mathworld.wolfram.com/GammaDistribution.html
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6346,7 +6346,7 @@
             http://mathworld.wolfram.com/GammaDistribution.html
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6375,7 +6375,7 @@
             http://mathworld.wolfram.com/GammaDistribution.html
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6415,7 +6415,7 @@
             http://mathworld.wolfram.com/GammaDistribution.html
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6443,7 +6443,7 @@
             Computes the upper incomplete Gamma Function γ(a,z).
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6501,7 +6501,7 @@
             Computes the upper incomplete Gamma Function Γ(a,z).
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6559,7 +6559,7 @@
             Computes the regularized Gamma Function Q(a,z).
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6622,7 +6622,7 @@
             Computes the regularized Gamma Function P(a,z).
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6685,7 +6685,7 @@
             Returns a lambda expression of the distribution function of a triangular distribution.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6721,7 +6721,7 @@
             Distribution function of the triangular distribution.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6749,7 +6749,7 @@
             Returns a lambda expression of the probability density function of a triangular distribution.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6785,7 +6785,7 @@
             Probability density function of the triangular distribution.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6813,7 +6813,7 @@
             Returns a lambda expression of the distribution function of an exponential distribution.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6845,7 +6845,7 @@
             Distribution function of the exponential distribution.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6871,7 +6871,7 @@
             Returns a lambda expression of the probability density function of an exponential distribution.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6903,7 +6903,7 @@
             Probability density function of the exponential distribution.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6929,7 +6929,7 @@
             Returns a lambda expression of the distribution function of a uniform distribution.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6962,7 +6962,7 @@
             Distribution function of the uniform distribution.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -6989,7 +6989,7 @@
             Returns a lambda expression of the probability density function of a uniform distribution.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -7022,7 +7022,7 @@
             Probability density function of the uniform distribution.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -7049,7 +7049,7 @@
             Distribution function of the normal distribution.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -7076,7 +7076,7 @@
             Returns a lambda expression of the distribution function of a normal distribution.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -7109,7 +7109,7 @@
             Probability density function of the normal distribution.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -7136,7 +7136,7 @@
             Returns a lambda expression of the probability density function of a normal distribution.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -7169,7 +7169,7 @@
             Computes erfc(x).
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -7179,7 +7179,7 @@
             Base class for all analytic functions.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -7189,7 +7189,7 @@
             Base class for all single complex variable functions.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -7199,7 +7199,7 @@
             Base class for all single real variable functions.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -7411,7 +7411,7 @@
             Computes ln(Β(p,q)).
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -7449,7 +7449,7 @@
             Computes ln(Γ(x)).
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -7520,7 +7520,7 @@
             Computes Γ(x).
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -7591,7 +7591,7 @@
             DateTime function
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -7631,7 +7631,7 @@
             TimeSpan function
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -7671,7 +7671,7 @@
             Computes erf(x).
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -7742,7 +7742,7 @@
             http://mathworld.wolfram.com/GeometricMean.html
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -7752,7 +7752,7 @@
             Base class for all single real-valued vector variable functions.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -7762,7 +7762,7 @@
             Base class for all single vector variable functions.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -7952,7 +7952,7 @@
             http://mathworld.wolfram.com/HarmonicMean.html
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -8024,7 +8024,7 @@
             Base class for assignable binary operators.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -8034,7 +8034,7 @@
             Base class for all binary operators.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -8203,7 +8203,7 @@
             Base class for unary assignment operators.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -8213,7 +8213,7 @@
             Base class for all unary operators.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -8373,7 +8373,7 @@
             Handles pattern assignment.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -8445,7 +8445,7 @@
             Contains a parametrized set.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -8560,7 +8560,7 @@
             Base class for all single set variable functions.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -8643,7 +8643,7 @@
             Creates a Phong Shader
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -8679,7 +8679,7 @@
             Creates a Surface Material
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -8715,7 +8715,7 @@
             Creates a Light Source
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -8751,7 +8751,7 @@
             Transforms a vector to a set by creating a set of the elements of the vector.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -8788,7 +8788,7 @@
             Computes EndsWith(s,Value).
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -8821,7 +8821,7 @@
             Computes StartsWith(s,Value).
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -8854,7 +8854,7 @@
             Calculates the length of a string.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -8889,7 +8889,7 @@
             If not, a set of a single element (the operand) is returned.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -8953,7 +8953,7 @@
             Base class for all set-valued binary operators.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -8995,7 +8995,7 @@
             Checks if an element is not a memeber of a set.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9005,7 +9005,7 @@
             Base class for all comparison operators.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -9082,7 +9082,7 @@
             Compares the intersection of two sets.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9137,7 +9137,7 @@
             Checks if an element is a memeber of a set.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -9194,7 +9194,7 @@
             Compares the union of two sets.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9249,7 +9249,7 @@
             Script profiling interface.
             </summary>
             <remarks>
-            © Clayster, 2013-2014
+            © Clayster, 2013-2015
             
             Author: Peter Waher
             </remarks>
@@ -9283,7 +9283,7 @@
             Base interface of objects that support addition.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -9329,7 +9329,7 @@
             Interface used to limit access to different functions.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9353,7 +9353,7 @@
             Handles the layout of sets.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9383,7 +9383,7 @@
             Draws a legend
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9465,7 +9465,7 @@
             Class providing numerical methods.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -9517,7 +9517,7 @@
             Base class for all abelian groups.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9527,7 +9527,7 @@
             Base class for all groups.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9537,7 +9537,7 @@
             Base class for all semi-groups.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9547,7 +9547,7 @@
             Abstract base class for all sets.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9688,7 +9688,7 @@
             Base class for binary operators defined as lambda expressions.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9753,7 +9753,7 @@
             Base class for all commutative rings.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9763,7 +9763,7 @@
             Base class for all rings.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9823,7 +9823,7 @@
             Base class for unary operators defined as lambda expressions.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9878,7 +9878,7 @@
             Base class for all fields.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9888,7 +9888,7 @@
             Base class for all Euclidean domains.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9898,7 +9898,7 @@
             Base class for all unique factorization domains.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9908,7 +9908,7 @@
             Base class for all integral domains.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -9995,7 +9995,7 @@
             Represents the set of complex numbers.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -10100,7 +10100,7 @@
             Represents the set of natural numbers.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -10175,7 +10175,7 @@
             Represents the set of rational numbers.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -10280,7 +10280,7 @@
             Represents the set of real numbers.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -10385,7 +10385,7 @@
             Represents the set of integers.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -10500,7 +10500,7 @@
             Represents the complement of a set in another.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -10572,7 +10572,7 @@
             Represents the cartesian product of sets.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -10638,7 +10638,7 @@
             Represents a finite set.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -10750,7 +10750,7 @@
             Represents the empty set.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -10855,7 +10855,7 @@
             Represents the intersection of sets.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -10921,7 +10921,7 @@
             Pattern typed parametrized set.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -10931,7 +10931,7 @@
             Pattern parametrized set.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -11051,7 +11051,7 @@
             Simple type parametrized set.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -11061,7 +11061,7 @@
             Simple parametrized set.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -11176,7 +11176,7 @@
             Represents the union of sets.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -11242,7 +11242,7 @@
             Surface Material, for use in 3D rendering.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -11271,7 +11271,7 @@
             Creates a 3D Canvas Graph that can be used by script to freely draw on.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -11307,7 +11307,7 @@
             Creates a three dimensional culled facets graph.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -11317,7 +11317,7 @@
             Base class of all surface graphs.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -11485,7 +11485,7 @@
             Creates a three dimensional facets graph.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -11564,7 +11564,7 @@
             Creates a three dimensional culled wireframe graph.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -11643,7 +11643,7 @@
             Creates a three dimensional wireframe graph.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -11717,7 +11717,7 @@
             Creates a three dimensional line graph.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -11801,7 +11801,7 @@
             Creates a 3-dimensional homogeneous scaling matrix.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -11846,7 +11846,7 @@
             Creates a 3-dimensional scaling matrix.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -11891,7 +11891,7 @@
             Creates a homogeneous 3-dimensional projection matrix.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -11941,7 +11941,7 @@
             Creates a 3-dimensional homogeneous rotation matrix, that rotates points around the x-axis.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -11985,7 +11985,7 @@
             Creates a 3-dimensional homogeneous rotation matrix, that rotates points around the x-axis.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -12029,7 +12029,7 @@
             Creates a 3-dimensional homogeneous rotation matrix, that rotates points around the x-axis.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -12073,7 +12073,7 @@
             Creates a 3-dimensional rotation matrix, that rotates points around the x-axis.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -12117,7 +12117,7 @@
             Creates a 3-dimensional rotation matrix, that rotates points around the y-axis.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -12161,7 +12161,7 @@
             Creates a 3-dimensional rotation matrix, that rotates points around the z-axis.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -12205,7 +12205,7 @@
             Creates a homogeneous 3-dimensional translation matrix.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -12300,7 +12300,7 @@
             Base class for all three dimensional graphs.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -12564,7 +12564,7 @@
             Boole(a,b,λ,N) calculates an approximation of an integral ∫[a]^b(λ(x))dx, using the Booles method, using N segments.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -12574,7 +12574,7 @@
             Base class for integral algorithms.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -12625,7 +12625,7 @@
             interval into more segments, and increasing the level of approximation polynomials, until the desired accuracy is achieved (ε).
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -12686,7 +12686,7 @@
             Simpson(a,b,λ,N) calculates an approximation of an integral ∫[a]^b(λ(x))dx, using the Simpsons method, using N segments.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -12721,7 +12721,7 @@
             Trapezoid(a,b,f,λ,N) calculates an approximation of an integral ∫[a]^b(λ(x))dx, using the Trapezoids method, using N segments.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -12756,7 +12756,7 @@
             Riemann(a,b,λ,N) calculates an approximation of an integral ∫[a]^b(λ(x))dx, using the Riemanns method, using N segments.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -12796,7 +12796,7 @@
             Checks which types are available, that implements a specific interface.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -12828,7 +12828,7 @@
             Calculates a product by creating a sequence of numbers, using the same syntax as the Series function.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -12922,7 +12922,7 @@
             Calculates a sum by creating a sequence of numbers, using the same syntax as the Series function.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -13011,7 +13011,7 @@
             Handles the layout of generic vectors.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -13041,7 +13041,7 @@
             Handles the layout of complex vectors.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -13071,7 +13071,7 @@
             Handles the layout of real vectors.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -13101,7 +13101,7 @@
             Handles a default layout of objects, when a specific layout engine is not found.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -13131,7 +13131,7 @@
             Corresponds to infinity. Used in symbolic calculations.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13141,7 +13141,7 @@
             Base class for all value-type constants.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -13151,7 +13151,7 @@
             Base class for all constants.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -13280,7 +13280,7 @@
             Handles a single enumeration valued constant.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13330,7 +13330,7 @@
             Handles a single namespace-valued constant.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13380,7 +13380,7 @@
             Handles a single type-valued constant.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13430,7 +13430,7 @@
             Returns an HSVA vector from a color.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13462,7 +13462,7 @@
             Returns an HSV vector from a color.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13494,7 +13494,7 @@
             Returns an HSLA vector from a color.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13526,7 +13526,7 @@
             Returns an HSL vector from a color.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13558,7 +13558,7 @@
             Returns an RGB vector from a color.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13590,7 +13590,7 @@
             Returns an RGB vector from a color.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13622,7 +13622,7 @@
             Adjusts an axis given a step size.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13657,7 +13657,7 @@
             Recommends an axis, given a minimum and maximum value.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13692,7 +13692,7 @@
             Returns a recommended step size (for chart presentation), given a magnitude.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13730,7 +13730,7 @@
             Looks up values in a Matrix.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13765,7 +13765,7 @@
             Performs a regression analysis on two-dimensional data.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13831,7 +13831,7 @@
             Calculates the slope of an array representing the values of a sequence of evenly spaced points.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13863,7 +13863,7 @@
             Computes Asinh(x).
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13920,7 +13920,7 @@
             Computes Acosh(x).
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -13987,7 +13987,7 @@
             Computes Atanh(x).
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -14054,7 +14054,7 @@
             Explicitly converts a value to a string, using <see cref="M:Clayster.Library.Math.Expression.ToString(System.Object,System.Boolean)"/>.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -14100,7 +14100,7 @@
             Explicitly converts a value to a string, using <see cref="M:Clayster.Library.Math.Expression.ToString(System.Object,System.Boolean)"/>.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -14146,7 +14146,7 @@
             Computes Log2(x). (NOTE: base 2)
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -14203,7 +14203,7 @@
             Computes Nor(x).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -14213,7 +14213,7 @@
             Base class for all single real-valued vector variable functions.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -14309,7 +14309,7 @@
             Computes Nand(x).
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -14377,7 +14377,7 @@
             Decrements a variable.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -14444,7 +14444,7 @@
             Increments a variable.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -14511,7 +14511,7 @@
             Computes the logical or binary nand (not and) of two elements.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -14521,7 +14521,7 @@
             Base class for all boolean-valued binary operators.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -14603,7 +14603,7 @@
             Computes the logical or binary nor (not or) of two elements.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -14656,7 +14656,7 @@
             If a vector or set, it is returned as a matrix of height 1. If a scalar, a 1x1 matrix is returned.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -14718,7 +14718,7 @@
             Makes sure an object is of a specified type/namespace, otherwise null is returned.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -14771,7 +14771,7 @@
             to variables of the type specified in the rightmost operand 2, the operator returns true.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -14824,7 +14824,7 @@
             Converts a number to a physical magnitude, or converts a physical magnitude to a given unit.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -14889,7 +14889,7 @@
             Handles a try...catch...finally statement.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -14989,7 +14989,7 @@
             the <see cref="M:System.IDisposable.Dispose"/> method is called on the value.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -15028,7 +15028,7 @@
             Returns an array of available root namespaces.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -15059,7 +15059,7 @@
             Parses an expression string, and returns the expression object.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -15101,7 +15101,7 @@
             Returns a lambda expression g(...) = f^N(...), the composite exponent of another lambda expression f(...).
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -15205,7 +15205,7 @@
             Interface used by the script engine to handle units and unit conversions.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -15232,7 +15232,7 @@
             Light Source, for use in 3D rendering.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -15252,7 +15252,7 @@
             Contains a reference to a namespace.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -15380,7 +15380,7 @@
             Handles a single complex-valued constant.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -15462,7 +15462,7 @@
             Handles a single vector-valued constant of double values.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -15522,7 +15522,7 @@
             Handles a single matrix-valued constant containing only complex values elements (of 1 level only).
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -15577,7 +15577,7 @@
             undefined "constant".
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -15657,7 +15657,7 @@
             Corresponds to zero. Used in symbolic differentiation.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -15712,7 +15712,7 @@
             Corresponds to unity. Used in symbolic differentiation.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -15778,7 +15778,7 @@
             Handles a single object-valued constant.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -15843,7 +15843,7 @@
             Handles a single matrix-valued constant containing only double values elements (of 1 level only).
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -15898,7 +15898,7 @@
             Handles a single matrix-valued constant (of 1 level only).
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -15953,7 +15953,7 @@
             Handles a single vector-valued constant of double values.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -16013,7 +16013,7 @@
             Handles a single vector-valued constant (of 1 level only).
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -16073,7 +16073,7 @@
             Null "constant".
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -16133,7 +16133,7 @@
             Returns an array of available functions, using full function names.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16164,7 +16164,7 @@
             Returns an array of available functions.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16195,7 +16195,7 @@
             Returns an array of available full function names.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16226,7 +16226,7 @@
             Returns an array of available function names.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16257,7 +16257,7 @@
             Returns an array of available variables and their values.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16288,7 +16288,7 @@
             Returns an array of available variable names.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16319,7 +16319,7 @@
             Explicitly converts a value to a number.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16360,7 +16360,7 @@
             Creates an object without a prototype (ex nihilo = from nothing).
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16439,7 +16439,7 @@
             Creates a complex number.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16472,7 +16472,7 @@
             Creates a complex number using polar coordinates.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16505,7 +16505,7 @@
             arg(z)
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16552,7 +16552,7 @@
             Conjugates z
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16619,7 +16619,7 @@
             im(z)
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16666,7 +16666,7 @@
             re(z)
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16713,7 +16713,7 @@
             |z|
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16766,7 +16766,7 @@
             for root finding.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16802,7 +16802,7 @@
             If any preview recipients are listening for preview values.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16833,7 +16833,7 @@
             Stops execution of the function and returns a value.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16879,7 +16879,7 @@
             Creates a new object.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16925,7 +16925,7 @@
             Analyzes the object using reflection and returns a matrix with type and value information.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -16967,7 +16967,7 @@
             Returns the time elapsed is milliseconds to compute its subexpression.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -17004,7 +17004,7 @@
             Previews the value to any preview recipitens.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -17045,7 +17045,7 @@
             saturation and lightness, respectively.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -17099,7 +17099,7 @@
             saturation and value, respectively.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -17149,7 +17149,7 @@
             Returns a grayscale color
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -17181,7 +17181,7 @@
             Performs a non-linear transformation of an image.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -17216,7 +17216,7 @@
             Plots a two-dimensional grid.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -17257,7 +17257,7 @@
             Plots an image inside a two-dimensional graph.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -17305,7 +17305,7 @@
             Chebyshev(a,x0) = x->a[0]T0(x-x0)+a[1]T1(x-x0)+a[2]T2(x-x0)+....a[N]TN(x-x0)
             </example>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -17382,7 +17382,7 @@
             Chebyshev(a,x0) = x->a[0]U0(x-x0)+a[1]U1(x-x0)+a[2]U2(x-x0)+....a[N]UN(x-x0)
             </example>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -17452,7 +17452,7 @@
             Abstract base class for Chebyshev polynomials.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -17592,7 +17592,7 @@
             Complex-valued (element-based) polynomial of Chebyshev polynomials.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -17736,7 +17736,7 @@
             General (element-based) polynomial of Chebyshev polynomials.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -17880,7 +17880,7 @@
             Real-valued (element-based) polynomial of Chebyshev polynomials.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -18031,7 +18031,7 @@
             Chebyshev(a,x0) = x->a[0]U0(x-x0)+a[1]U1(x-x0)+a[2]U2(x-x0)+....a[N]UN(x-x0)
             </example>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -18108,7 +18108,7 @@
             Chebyshev(a,x0) = x->a[0]T0(x-x0)+a[1]T1(x-x0)+a[2]T2(x-x0)+....a[N]TN(x-x0)
             </example>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -18178,7 +18178,7 @@
             Complex-valued polynomial.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -18188,7 +18188,7 @@
             Abstract base class for Chebyshev polynomials.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -18506,7 +18506,7 @@
             Complex-valued polynomial of Chebyshev polynomials.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -18650,7 +18650,7 @@
             Complex-valued (element-based) polynomial.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -18850,7 +18850,7 @@
             General (element-based) polynomial.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -19055,7 +19055,7 @@
              ElementPolynomial(a,x0) = x->a[0]+a[1](x-x0)+a[2](x-x0).^2+....a[N](x-x0).^N
              </example>
              <remarks>
-             © Clayster, 2010-2014
+             © Clayster, 2010-2015
              
              Author: Peter Waher
              </remarks>
@@ -19162,7 +19162,7 @@
             Real-valued (element-based) polynomial.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -19368,7 +19368,7 @@
             General polynomial of Chebyshev polynomials.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -19513,7 +19513,7 @@
             for root finding.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -19554,7 +19554,7 @@
             Real-valued polynomial of Chebyshev polynomials.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -19698,7 +19698,7 @@
             Creates a 2-dimensional matrix containing calculated values.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -19739,7 +19739,7 @@
             Flips a matrix right to left.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -19749,7 +19749,7 @@
             Base class for all single matrix variable functions.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -19866,7 +19866,7 @@
             Flips a matrix upside down.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -19903,7 +19903,7 @@
             Creates a homogeneous 2-dimensional translation matrix.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -19949,7 +19949,7 @@
             Computes the smallest number that can be added to a given number, and the result being a new number.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -19994,7 +19994,7 @@
             Base class for all complex-valued unary operators.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -20004,7 +20004,7 @@
             Base class for all real-valued unary operators.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -20097,7 +20097,7 @@
             Base class for all complex-valued binary operators.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -20107,7 +20107,7 @@
             Base class for all real-valued binary operators.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -20214,7 +20214,7 @@
             Transposes and conjugates a matrix
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -20293,7 +20293,7 @@
             Compares two elements with respect to value and type.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -20303,7 +20303,7 @@
             Base class for all real-valued comparison operators.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -20403,7 +20403,7 @@
             If not, an array of a single element (the operand) is returned.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -20467,7 +20467,7 @@
             Dynamic function evaluation.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -20527,7 +20527,7 @@
             Returns the default derivative of a lambda expression.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -20594,7 +20594,7 @@
             General polynomial.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -20799,7 +20799,7 @@
              Polynomial(a,x0) = x->a[0]*I+a[1](x-x0)+a[2](x-x0)^2+....a[N](x-x0)^N
              </example>
              <remarks>
-             © Clayster, 2010-2014
+             © Clayster, 2010-2015
              
              Author: Peter Waher
              </remarks>
@@ -20871,7 +20871,7 @@
             Real-valued polynomial.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21077,7 +21077,7 @@
             Evaluation of an implcit lambda expression.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21137,7 +21137,7 @@
             Differentiates an expression
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21190,7 +21190,7 @@
             Creates a two dimensional line graph.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21268,7 +21268,7 @@
             Creates a one dimensional line plot chart.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21346,7 +21346,7 @@
             Creates a Canvas (GDI+) Graph that can be used by script to freely draw on.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21387,7 +21387,7 @@
             Creates a System.Drawing.Drawing2D.CombineMode from a string.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21417,7 +21417,7 @@
             Creates a System.Drawing.Drawing2D.CompositingMode from a string.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21447,7 +21447,7 @@
             Creates a System.Drawing.Drawing2D.CompositingQuality from a string.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21477,7 +21477,7 @@
             Creates a System.Drawing.Drawing2D.CoordinateSpace from a string.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21507,7 +21507,7 @@
             Creates a System.Drawing.SizeF.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21542,7 +21542,7 @@
             Creates a System.Drawing.RectangleF.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21578,7 +21578,7 @@
             Creates a System.Drawing.Rectangle.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21614,7 +21614,7 @@
             Creates a System.Drawing.PointF.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21644,7 +21644,7 @@
             Creates a System.Drawing.Point.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21674,7 +21674,7 @@
             Creates a System.Drawing.Size.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21709,7 +21709,7 @@
             Creates a System.Drawing.Font.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21745,7 +21745,7 @@
             Creates a System.Drawing.FontStyle from a string.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21775,7 +21775,7 @@
             Creates a System.Drawing.Pen.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21810,7 +21810,7 @@
             Creates a System.Drawing.SolidBrush.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21840,7 +21840,7 @@
             Creates a System.Drawing.Text.TextRenderingHint from a string.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21870,7 +21870,7 @@
             Creates a System.Drawing.StringFormat from a string.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21900,7 +21900,7 @@
             Creates a System.Drawing.Drawing2D.SmoothingMode from a string.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21930,7 +21930,7 @@
             Creates a System.Drawing.Drawing2D.PixelOffsetMode from a string.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21960,7 +21960,7 @@
             Creates a System.Drawing.Drawing2D.MatrixOrder from a string.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -21990,7 +21990,7 @@
             Creates a System.Drawing.Drawing2D.InterpolationMode from a string.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -22020,7 +22020,7 @@
             Creates a System.Drawing.GraphicsUnit from a string.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -22050,7 +22050,7 @@
             Creates a System.Drawing.Drawing2D.FlushIntention from a string.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -22080,7 +22080,7 @@
             Creates a System.Drawing.Drawing2D.FillMode from a string.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -22110,7 +22110,7 @@
             Creates a System.Drawing.CopyPixelOperation from a string.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -22140,7 +22140,7 @@
             Makes sure its parameter is a lambda expression.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -22178,7 +22178,7 @@
             Checks if its parameter is a lambda expression or not.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -22216,7 +22216,7 @@
             Returns an array containing the column vectors of a matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22253,7 +22253,7 @@
             Calulates the trace of a matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22285,7 +22285,7 @@
             Calulates the determinant of a matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22322,7 +22322,7 @@
             Returns an array containing the row vectors of a matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22359,7 +22359,7 @@
             Creates a 2-dimensional matrix of only ones.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22397,7 +22397,7 @@
             Creates a Hilbert matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22434,7 +22434,7 @@
             Calulates the rank of a matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22467,7 +22467,7 @@
             its Reduced Row Echelon Form (RREF).
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22504,7 +22504,7 @@
             Reduces a matrix using pivoted Gaussian elimination.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22541,7 +22541,7 @@
             Creates a homogeneous 2-dimensional scaling matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22587,7 +22587,7 @@
             Creates a 2-dimensional scaling matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22628,7 +22628,7 @@
             Creates a 2-dimensional homogeneous rotation matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22672,7 +22672,7 @@
             Creates a 2-dimensional rotation matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22716,7 +22716,7 @@
             Checks if a matrix is a null matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22748,7 +22748,7 @@
             Checks if a matrix is lower triangular.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22780,7 +22780,7 @@
             Checks if a matrix is upper triangular.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22812,7 +22812,7 @@
             Checks if a matrix is diagonal.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22844,7 +22844,7 @@
             Creates a diagonal matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22921,7 +22921,7 @@
             Creates a 2-dimensional matrix of only zeroes.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -22973,7 +22973,7 @@
             Creates an identity matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -23013,7 +23013,7 @@
             Throws an exception.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -23055,7 +23055,7 @@
             Computes Invert(x).
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -23127,7 +23127,7 @@
             Normalizes a vector (i.e. making it unit length).
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -23164,7 +23164,7 @@
             Extract elements from an array.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -23205,7 +23205,7 @@
             Evaluation of an implcit function.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -23265,7 +23265,7 @@
             Contains a two dimensional array of expression nodes, forming a matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -23366,7 +23366,7 @@
             Handles loop evaluation using for each.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -23464,7 +23464,7 @@
             Handles loop evaluation using for.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -23564,7 +23564,7 @@
             Base class for all two real variable functions.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -23610,7 +23610,7 @@
             Creates a one dimensional scatter diagram.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -23688,7 +23688,7 @@
             Creates a one dimensional plot (curve/line) chart.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -23766,7 +23766,7 @@
             Creates a one dimensional horizontal bar chart.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -23849,7 +23849,7 @@
             Creates a one dimensional vertical bar chart.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -23932,7 +23932,7 @@
             Returns the first well defined value in a sequence of expressions
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -23978,7 +23978,7 @@
             Calculates the MD5 Hash value of its parameter. 
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -24052,7 +24052,7 @@
             Orders elements in an array
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -24107,7 +24107,7 @@
             Computes Reverse(x).
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -24146,7 +24146,7 @@
             Computes (element-wise) power of two elements.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -24221,7 +24221,7 @@
             Computes (element-wise) division of two elements.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -24312,7 +24312,7 @@
             Computes (element-wise) multiplication of two elements.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -24393,7 +24393,7 @@
             Defines a lambda expression.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -24564,7 +24564,7 @@
             Compares two elements (element-wise).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -24574,7 +24574,7 @@
             Compares two elements.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -24666,7 +24666,7 @@
             Compares two elements (element-wise).
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -24676,7 +24676,7 @@
             Compares two elements.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -24768,7 +24768,7 @@
             Handles property and field assignment.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -24830,7 +24830,7 @@
             Handles matrix column assignment.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -24892,7 +24892,7 @@
             Handles matrix element assignment.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -24954,7 +24954,7 @@
             Handles index assignment.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -25016,7 +25016,7 @@
             Extracts a row from a matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -25106,7 +25106,7 @@
             Extracts a column from a matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -25196,7 +25196,7 @@
             Extracts an element from a matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -25316,7 +25316,7 @@
             The operation is written A\b. (Quicker than computing x=Inv(A)*b.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -25401,7 +25401,7 @@
             Variable definition, as defined by ECMA
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -25473,7 +25473,7 @@
             http://msdn.microsoft.com/en-us/library/system.reflection.binder.aspx
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -25567,7 +25567,7 @@
             Graph containing a sequence of linearly transformed images.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -25697,7 +25697,7 @@
             Inverts an element.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -25794,7 +25794,7 @@
             Base class for all boolean-valued comparison operators.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -25839,7 +25839,7 @@
             Handles definition of a function.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -25982,7 +25982,7 @@
             Compares two elements using regular expressions.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -26029,7 +26029,7 @@
             Compares two elements using regular expressions.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -26116,7 +26116,7 @@
             Base class for all one-dimensional graphs.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -26314,7 +26314,7 @@
             Returns a color value from a color name or (R,G,B) triplet.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -26385,7 +26385,7 @@
             Creates a two dimensional scatter diagram.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -26467,7 +26467,7 @@
             Creates a two dimensional filled polygon.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -26545,7 +26545,7 @@
             Computes Calculate(s), i.e. it evaluates the string s as an expression.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -26588,7 +26588,7 @@
             subexpressions in it found using the left and right delimiters provided.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -26635,7 +26635,7 @@
             Returns the N number of elements from a vector, starting at a specific (zero-based) index.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -26690,7 +26690,7 @@
             Returns the last N number of elements from a vector.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -26732,7 +26732,7 @@
             Returns the first N number of elements from a vector.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -26774,7 +26774,7 @@
             Permutates a vector
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -26814,7 +26814,7 @@
             Computes IndexOf(Element, Vector).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -26857,7 +26857,7 @@
             Computes n!!
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -26913,7 +26913,7 @@
             Computes n!
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -26969,7 +26969,7 @@
             Transposes a matrix
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -27075,7 +27075,7 @@
             Base class for all two dimensional graphs.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -27431,7 +27431,7 @@
             Class handling parsing and evaluation of string expressions.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -28239,7 +28239,7 @@
             Creates a two dimensional graph.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -28318,7 +28318,7 @@
             Computes And(x).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -28386,7 +28386,7 @@
             Computes CartesianProduct(Left, Right).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -28455,7 +28455,7 @@
             Computes Axis(Vector, Index).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -28499,7 +28499,7 @@
             Computes CrossProduct(Left, Right).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -28556,7 +28556,7 @@
             Joins arrays into a larger array.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -28596,7 +28596,7 @@
             Computes Norm(x).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -28659,7 +28659,7 @@
             Computes DotProduct(Left, Right).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -28725,7 +28725,7 @@
             Computes Or(x).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -28793,7 +28793,7 @@
             Compares the sum of two elements.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -28878,7 +28878,7 @@
             Extracts a value from an array.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -28970,7 +28970,7 @@
             Compares the logical or binary and of two elements.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -29036,7 +29036,7 @@
             Handles variable assignment.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -29113,7 +29113,7 @@
             Handles a single boolean-valued constant.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -29168,7 +29168,7 @@
             Prints the value to Console.Out
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -29210,7 +29210,7 @@
             Computes Normal(mean,stddev), Normal(mean,stddev,n) and Normal(mean,stddev,n,m).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -29246,7 +29246,7 @@
             Computes Uniform(min,max), Uniform(min,max,n) and Uniform(min,max,n,m).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -29282,7 +29282,7 @@
             Computes Average(x).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -29356,7 +29356,7 @@
             http://mathworld.wolfram.com/StandardDeviation.html
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -29430,7 +29430,7 @@
             http://mathworld.wolfram.com/Variance.html
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -29506,7 +29506,7 @@
             Creates a histogram from values in an array.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -29561,7 +29561,7 @@
             Creates an array.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -29640,7 +29640,7 @@
             Computes Sort(x).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -29701,7 +29701,7 @@
             Computes Median(x).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -29756,7 +29756,7 @@
             Computes Product(x).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -29844,7 +29844,7 @@
             Computes Count(x).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -29881,7 +29881,7 @@
             Computes Sum(x).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -29968,7 +29968,7 @@
             Compares two elements.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -30015,7 +30015,7 @@
             Compares two elements.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -30071,7 +30071,7 @@
             Computes Age(x).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -30108,7 +30108,7 @@
             Computes Years(x,y).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -30155,7 +30155,7 @@
             Now "constant".
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -30215,7 +30215,7 @@
             Converts a value in degrees to radians.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -30291,7 +30291,7 @@
             Cubes an element
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -30367,7 +30367,7 @@
             Computes degrees from radians: Deg(x).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -30419,7 +30419,7 @@
             Computes radians from degrees: Rad(x).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -30471,7 +30471,7 @@
             Squares an element
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -30554,7 +30554,7 @@
             Multiplies an element by 1/100.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -30625,7 +30625,7 @@
             Computes Right(s,Len).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -30658,7 +30658,7 @@
             Computes Left(s,Len).
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -30691,7 +30691,7 @@
             Handles property and field assignment.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -30753,7 +30753,7 @@
             Computes the division between two elements.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -30847,7 +30847,7 @@
             Handles a single double-valued constant.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -30902,7 +30902,7 @@
             Checks the equivalence of two boolean expressions.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31019,7 +31019,7 @@
             External (possibly) multivariate function.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31129,7 +31129,7 @@
             Computes Abs(x).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31166,7 +31166,7 @@
             Computes Acos(x).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31233,7 +31233,7 @@
             Computes Asin(x).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31300,7 +31300,7 @@
             Computes Atan(x).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31357,7 +31357,7 @@
             Computes Atan2(x,y).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31400,7 +31400,7 @@
             Computes Ceiling(x).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31442,7 +31442,7 @@
             Computes Cos(x).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31494,7 +31494,7 @@
             Computes Cosh(x).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31546,7 +31546,7 @@
             Checks if the expression within parenthesis returns a string that is empty.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31578,7 +31578,7 @@
             Computes Exp(x).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31630,7 +31630,7 @@
             Computes Floor(x).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31672,7 +31672,7 @@
             Checks if the expression within parenthesis is defined or not.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31724,7 +31724,7 @@
             Computes Log(x). NOTE: base e (natural logarithm).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31776,7 +31776,7 @@
             Computes Log10(x). (NOTE: base 10)
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31833,7 +31833,7 @@
             Computes Max(x,y).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31888,7 +31888,7 @@
             Computes Min(x,y).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31943,7 +31943,7 @@
             Checks if the expression within parenthesis returns a string that is not empty.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -31975,7 +31975,7 @@
             Computes Round(x).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -32017,7 +32017,7 @@
             Computes Sign(x).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -32054,7 +32054,7 @@
             Computes Sin(x).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -32106,7 +32106,7 @@
             Computes Sinh(x).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -32158,7 +32158,7 @@
             Computes Sqrt(x).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -32231,7 +32231,7 @@
             Computes Tan(x).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -32283,7 +32283,7 @@
             Computes Tanh(x).
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -32335,7 +32335,7 @@
             Compares two elements.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -32396,7 +32396,7 @@
             Compares two elements.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -32457,7 +32457,7 @@
             Handles conditional evaluation.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -32573,7 +32573,7 @@
             Checks the implication of one boolean expressions to another.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -32630,7 +32630,7 @@
             Compares two elements.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -32691,7 +32691,7 @@
             Compares two elements.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -32752,7 +32752,7 @@
             Computes the remainder of the division of two elements.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -32814,7 +32814,7 @@
             Computes the multiplication of two elements.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -32908,7 +32908,7 @@
             Negates an element.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -32995,7 +32995,7 @@
             Logically negates an element.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -33055,7 +33055,7 @@
             Computes the logical or binary or of two elements.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -33121,7 +33121,7 @@
             Computes a power of an element given another.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -33190,7 +33190,7 @@
             Computes a power of an element given another.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -33277,7 +33277,7 @@
             Handles a sequence of expressions.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -33353,7 +33353,7 @@
             Handles a single string-valued constant.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -33403,7 +33403,7 @@
             Computes the difference between two elements.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -33493,7 +33493,7 @@
             Contains an array of expression nodes, forming a vector.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -33617,7 +33617,7 @@
             Handles loop evaluation using while.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -33709,7 +33709,7 @@
             Computes the logical or binary exclusive or of two elements.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -33773,7 +33773,7 @@
             Class maintaining references to functions defined outside of the expression library.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -33903,7 +33903,7 @@
             Base class for all exceptions in Clayster.Library.Math.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -33938,7 +33938,7 @@
             Base class for all parsing related exceptions.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -33975,7 +33975,7 @@
             Syntax Error during parsing.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -34002,7 +34002,7 @@
             Exception containing a return value.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -34025,7 +34025,7 @@
             For more information about Phong shading, see: http://en.wikipedia.org/wiki/Phong_shading
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -34167,7 +34167,7 @@
             Contains information about a physical magnitude
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>
@@ -34510,7 +34510,7 @@
             Matrix with complex-valued elements.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -34520,7 +34520,7 @@
             Base class of all matrix classes.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -35334,7 +35334,7 @@
             General Matrix.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -35592,7 +35592,7 @@
             Matrix with real-valued elements.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -35932,7 +35932,7 @@
             Static class containing array method extensions.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -35967,7 +35967,7 @@
             when executing for more than a specified amount of time.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -35995,7 +35995,7 @@
             Class handling the value of a variable.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -36049,7 +36049,7 @@
             A thread-safe class handling a set of variables.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -36297,7 +36297,7 @@
             have been written.
             </summary>
             <remarks>
-            © Clayster, 2011-2014
+            © Clayster, 2011-2015
             
             Author: Peter Waher
             </remarks>

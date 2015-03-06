@@ -11,7 +11,7 @@
             NOTE: This only works for classes with dedicated tables. <see cref="T:Clayster.Library.Data.DBDedicatedTableAttribute"/> for more information.
             </summary>
             <remarks>
-            © Clayster, 2014
+            © Clayster, 2014-2015
             
             Author: Peter Waher, Tina Beckman
             </remarks>
@@ -21,7 +21,7 @@
             Base class of all object database attributes.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -156,7 +156,7 @@
             for more information.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -175,7 +175,7 @@
             be stored in a dedicated table.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -220,7 +220,7 @@
             time when the object was created.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -240,7 +240,7 @@
             NOTE: Default attributes has no meaning in classes with dedicated tables.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -371,7 +371,7 @@
             NOTE: Default attributes has no meaning in classes with dedicated tables.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -392,7 +392,7 @@
             NOTE: Default attributes has no meaning in classes with dedicated tables.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -413,7 +413,7 @@
             NOTE: Default attributes has no meaning in classes with dedicated tables.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -432,7 +432,7 @@
             as encrypted long string.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Stellan Bergström
             </remarks>
@@ -442,7 +442,7 @@
             Base class of all object database string attributes.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -459,7 +459,7 @@
             as encrypted short string.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Stellan Bergström
             </remarks>
@@ -476,7 +476,7 @@
             having this attribute.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -494,7 +494,7 @@
             but may contain large string values.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -515,7 +515,7 @@
             find the object to update or delete in the database.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -536,7 +536,7 @@
             when saving the object, the field or property will be skipped.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -555,7 +555,7 @@
             possibility to initialize itself after loading.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -576,7 +576,7 @@
             find the Object to update or delete in the database.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -604,7 +604,7 @@
             parameter.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -667,7 +667,7 @@
             parameter.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -724,7 +724,7 @@
             time when the object was last updated.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -742,7 +742,7 @@
             the class specified in the parameter.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Stellan Bergström
             </remarks>
@@ -766,7 +766,7 @@
             found, exceptions should be thrown.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -784,7 +784,7 @@
             Event arguments for backup/restore progress callback events.
             </summary>
             <remarks>
-            © Clayster, 2013-2014
+            © Clayster, 2013-2015
             
             Author: Peter Waher
             </remarks>
@@ -823,7 +823,7 @@
             Event arguments for backup/restore error callback events.
             </summary>
             <remarks>
-            © Clayster, 2013-2014
+            © Clayster, 2013-2015
             
             Author: Peter Waher
             </remarks>
@@ -868,7 +868,7 @@
             Class handling fields for export/import.
             </summary>
             <remarks>
-            © Clayster, 2013-2014
+            © Clayster, 2013-2015
             
             Author: Peter Waher
             </remarks>
@@ -901,7 +901,7 @@
             Class containing information about an object that is to be imported into the database.
             </summary>
             <remarks>
-            © Clayster, 2013-2014
+            © Clayster, 2013-2015
             
             Author: Peter Waher
             </remarks>
@@ -940,7 +940,7 @@
             Array value
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -950,7 +950,7 @@
             Base class of data types handled by search expressions.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -1122,7 +1122,7 @@
             Interface for object sinks. Object sinks receive streams of objects.
             </summary>
             <remarks>
-            © Clayster, 2013-2014
+            © Clayster, 2013-2015
             
             Author: Peter Waher
             </remarks>
@@ -1150,7 +1150,7 @@
             Extentions for the My SQL provider.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Tina Beckman
             </remarks>
@@ -1159,7 +1159,7 @@
             type in the object database.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher, Tina Beckman
             </remarks>
@@ -1849,7 +1849,7 @@
             List of And operators.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -1859,7 +1859,7 @@
             Base class of all expression nodes.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -1869,7 +1869,7 @@
             Base class of all expression nodes.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -2136,7 +2136,7 @@
             Base class of all binary expression nodes.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -2146,7 +2146,7 @@
             Base class of all unary expression nodes.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -2365,7 +2365,7 @@
             Equality operator.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -2375,7 +2375,7 @@
             Base class of all comparison expression nodes.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -2497,7 +2497,7 @@
             Greater Than operator.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -2559,7 +2559,7 @@
             Greater Than or Equal To operator.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -2621,7 +2621,7 @@
             Lesser Than operator.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -2683,7 +2683,7 @@
             Lesser Than or Equal To operator.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -2745,7 +2745,7 @@
             LIKE operator.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -2816,7 +2816,7 @@
             Not Equal To operator.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -2903,7 +2903,7 @@
             NOT LIKE operator.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -2965,7 +2965,7 @@
             Boolean valued constant.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -2975,7 +2975,7 @@
             Base class for all constant nodes.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -3052,7 +3052,7 @@
             Character valued constant.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -3098,7 +3098,7 @@
             DateTime valued constant.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -3144,7 +3144,7 @@
             Double valued constant.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -3190,7 +3190,7 @@
             Integer valued constant.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -3236,7 +3236,7 @@
             String valued constant.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -3282,7 +3282,7 @@
             TimeSpan valued constant.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -3328,7 +3328,7 @@
             Blob value
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -3363,7 +3363,7 @@
             Boolean value
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -3398,7 +3398,7 @@
             Character value
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -3433,7 +3433,7 @@
             DateTime value
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -3488,7 +3488,7 @@
             Double value
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -3543,7 +3543,7 @@
             Enumeration value
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -3578,7 +3578,7 @@
             Integer value
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -3630,7 +3630,7 @@
             Object value
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -3665,7 +3665,7 @@
             String value
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -3753,7 +3753,7 @@
             TimeSpan value
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -3788,7 +3788,7 @@
             List of Or operators.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -3852,7 +3852,7 @@
             Parameter Node.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -3862,7 +3862,7 @@
             Base class for all symbols.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -3939,7 +3939,7 @@
             Class handling Search Expressions.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -4061,7 +4061,7 @@
             Base class for all unary comparison operators.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -4107,7 +4107,7 @@
             IS NOT NULL operator.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -4158,7 +4158,7 @@
             IS NULL operator.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -4209,7 +4209,7 @@
             String valued constant.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -4280,7 +4280,7 @@
             Variable Node.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -4337,7 +4337,7 @@
             perform caching.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Tina Beckman
             </remarks>
@@ -4352,7 +4352,7 @@
             perform caching.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -4756,7 +4756,7 @@
             Handles My SQL Server communication.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Tina Beckman
             </remarks>
@@ -4772,7 +4772,7 @@
             the interface directly.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -4782,7 +4782,7 @@
             Interface for object database provider clients.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -9743,7 +9743,7 @@
             perform caching.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher, Tina Beckman
             </remarks>
@@ -10210,7 +10210,7 @@
             The connection string should contain the connection string for the SQLite database.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Mikael Borgbrant
             </remarks>
@@ -10220,7 +10220,7 @@
             Handles an in-memory interface for the object database.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -10985,7 +10985,7 @@
             The connection string should contain the file name of the file used for persistance.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -11027,7 +11027,7 @@
             The connection string should contain the file name of the file used for persistance.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -11073,7 +11073,7 @@
             perform caching.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -11104,7 +11104,7 @@
             perform caching.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -11129,7 +11129,7 @@
             Handles Microsoft SQL Server communication.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher, Stellan Bergström, Tina Beckman
             </remarks>
@@ -11739,7 +11739,7 @@
             Provider assigned if a suitable provider is not found.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -11760,7 +11760,7 @@
             Handles all database providers.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -11802,7 +11802,7 @@
             perform caching.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher, Stellan Bergström, Tina Beckman
             </remarks>
@@ -12369,7 +12369,7 @@
             Class handling all database access.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher, Stellan Bergström, Olof Zandrén, Tina Beckman
             </remarks>
@@ -12379,7 +12379,7 @@
             Generic interface for any SQL-based data layer.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher, Tina Beckman
             </remarks>
@@ -12749,6 +12749,13 @@
             </summary>
             <param name="TP">Timepoint</param>
             <returns>Datetime representation</returns>
+        </member>
+        <member name="M:Clayster.Library.Data.DB.ValidDateTime(System.DateTime)">
+            <summary>
+            Return a valid date time within database min and max values to use in database.
+            </summary>
+            <param name="TP">Timepoint</param>
+            <returns>Valid timepoint to use in database</returns>
         </member>
         <member name="M:Clayster.Library.Data.DB.ParseDateTime(System.String)">
             <summary>
@@ -14538,7 +14545,7 @@
             Class handling clean db
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Stellan Bergström
             </remarks>
@@ -14568,7 +14575,7 @@
             Class handling cleaned items
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Stellan Bergström
             </remarks>
@@ -14593,7 +14600,7 @@
             Class handling fields
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -14619,7 +14626,7 @@
             when actually referenced.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -14823,7 +14830,7 @@
             Base class of all Object Database exceptions.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -14846,7 +14853,7 @@
             Thrown if transaction handling is incorrect.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -14862,7 +14869,7 @@
             Thrown if no type is returned
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -14878,7 +14885,7 @@
             Thrown when the length of a field makes a type incompatible.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -14894,7 +14901,7 @@
             Thrown when an object is not found when one is expected.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -14910,7 +14917,7 @@
             Thrown when there's an owner mismatch.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -14938,7 +14945,7 @@
             Thrown when there's an object type mismatch.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -14961,7 +14968,7 @@
             Thrown when field errors are encountered in the object database.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -14977,7 +14984,7 @@
             Thrown when an object is not compatible with the object database.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -14993,7 +15000,7 @@
             Thrown when input parameters are not correct.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -15009,7 +15016,7 @@
             Thrown when syntax errors in expressions are encountered.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -15037,7 +15044,7 @@
             Thrown when encryption/decryption fails.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -15060,7 +15067,7 @@
             Thrown when invalid SQL has been attempted to be executed.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -15090,7 +15097,7 @@
             Exception object thrown when protected objects are illegally accessed.
             </summary>
             <remarks>
-            © Clayster, 2013-2014
+            © Clayster, 2013-2015
             
             Author: Peter Waher
             </remarks>
@@ -15113,7 +15120,7 @@
             Base class for fields and properties in database classes.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -15392,7 +15399,7 @@
             Class containing information about a field in a class.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -15444,7 +15451,7 @@
             Class containing information about a property in a class.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -15499,7 +15506,7 @@
             to use if derived from this class or any of its descendants.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -15692,7 +15699,7 @@
             Class handling statistics for objects.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Stellan Bergström
             </remarks>
@@ -15727,7 +15734,7 @@
             Class handling an owner
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Stellan Bergström, Peter Waher
             </remarks>
@@ -15757,7 +15764,7 @@
             Class handling all database access.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -15819,7 +15826,7 @@
             Class handling a type
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Stellan Bergström, Peter Waher
             </remarks>
@@ -15899,7 +15906,7 @@
             applications are keps separated.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -16955,7 +16962,7 @@
             perform caching.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Mikael Borgbrant, Olof Zandrén
             </remarks>
@@ -17440,7 +17447,7 @@
             Handles SQLite Server communication.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Mikael Borgbrant, Olof Zandrén, Peter Waher
             </remarks>
@@ -17899,7 +17906,7 @@
             Class that saves sets of objects to a stream.
             </summary>
             <remarks>
-            © Clayster, 2013-2014
+            © Clayster, 2013-2015
             
             Author: Peter Waher
             </remarks>
@@ -17954,7 +17961,7 @@
             ObjectStatistics description object.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Stellan Bergström
             </remarks>
@@ -18072,7 +18079,7 @@
             Generic class containing three values.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>

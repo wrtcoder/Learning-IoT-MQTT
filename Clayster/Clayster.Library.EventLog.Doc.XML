@@ -9,7 +9,7 @@
             Event log printer. Can be used to direct text output to the event log.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -40,7 +40,7 @@
             Event Log storing events in a My SQL database.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Tina Beckman
             </remarks>
@@ -50,7 +50,7 @@
             Base class for all Event Sinks.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -186,7 +186,7 @@
             Interface for searchable event sinks.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -707,7 +707,7 @@
             Interface for persisted events.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -848,7 +848,7 @@
             processing.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher, Tina Beckman
             </remarks>
@@ -1263,7 +1263,7 @@
             Stores incoming events in ASCII Files.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -1273,7 +1273,7 @@
             Base class for all file based event sinks.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -1436,7 +1436,7 @@
             SQL Server 2005 Event Log Auto Delete record.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -1499,7 +1499,7 @@
             Event Sink that logs incoming events to Console.Out
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher, Jonas Larsson
             </remarks>
@@ -1551,7 +1551,7 @@
             Event Log storing events in the current Object Database.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -1883,7 +1883,7 @@
             Event class, for storage in the object database.
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -2022,7 +2022,7 @@
             http://tools.ietf.org/html/rfc3195
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher, Tina Beckman
             </remarks>
@@ -2036,7 +2036,7 @@
             http://tools.ietf.org/html/rfc5424
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -2161,7 +2161,7 @@
             http://tools.ietf.org/html/rfc5426
             </summary>
             <remarks>
-            © Clayster, 2010-2014
+            © Clayster, 2010-2015
             
             Author: Peter Waher
             </remarks>
@@ -2231,7 +2231,7 @@
             Message.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Stellan Bergström
             </remarks>
@@ -2267,7 +2267,7 @@
             Message.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Stellan Bergström
             </remarks>
@@ -2297,7 +2297,7 @@
             Class containing eventid record
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Stellan Bergström, Peter Waher
             </remarks>
@@ -2325,7 +2325,7 @@
             Message.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Stellan Bergström, Peter Waher
             </remarks>
@@ -2530,7 +2530,7 @@
             Interface for event filters.
             </summary>
             <remarks>
-            © Clayster, 2012-2014
+            © Clayster, 2012-2015
             
             Author: Peter Waher
             </remarks>
@@ -2548,7 +2548,7 @@
             if the available memory goes below certain limiting values.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -2558,7 +2558,7 @@
             Base class for all Monitors.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -2657,7 +2657,7 @@
             if the CPU usage exceeds certain limiting values during given time periods.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -2715,7 +2715,7 @@
             goes below a certain limit.
             </summary>
             <remarks>
-            © Clayster, 2008-2014
+            © Clayster, 2008-2015
             
             Author: Peter Waher
             </remarks>
@@ -2750,7 +2750,7 @@
             Event Sink saving incoming events to HTML files in a specified folder.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -2807,7 +2807,7 @@
             Use HasLoggedNonInfo to also include warnings.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Christian Falk
             </remarks>
@@ -2905,7 +2905,7 @@
             Console.Out or Console.Error.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Christian Falk
             </remarks>
@@ -2944,7 +2944,7 @@
             Console.Out or Console.Error.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Christian Falk, Peter Waher
             </remarks>
@@ -2968,7 +2968,7 @@
             Event Level.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Stellan Bergström
             </remarks>
@@ -3003,7 +3003,7 @@
             Event Level by year and month.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Stellan Bergström
             </remarks>
@@ -3050,7 +3050,7 @@
             Event Level by year and week.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Stellan Bergström
             </remarks>
@@ -3097,7 +3097,7 @@
             Event Level by year, month and day.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Stellan Bergström
             </remarks>
@@ -3149,7 +3149,7 @@
             Event sink that stores incoming events in XML Files.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -3203,7 +3203,7 @@
             Represents an event read from an event log.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -3301,7 +3301,7 @@
             Event Log storing events in an SQL Server 2005 (or compatible) database.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher, Tina Beckman
             </remarks>
@@ -3690,7 +3690,7 @@
             they are filtered according rules set in the object.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -3765,7 +3765,7 @@
             <para>Use Clayster.Library.EventLog.MsmqClient.exe (for example) to display such messages on the other machine.</para>
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher, Tina Beckman
             </remarks>
@@ -3829,7 +3829,7 @@
             <para>Use Clayster.Library.EventLog.MsmqClient.exe (for example) to display such messages on the other machine.</para>
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -3881,7 +3881,7 @@
             Static class used for logging events.
             </summary>
             <remarks>
-            © Clayster, 2007-2014
+            © Clayster, 2007-2015
             
             Author: Peter Waher
             </remarks>
@@ -5361,7 +5361,7 @@
             Logs an information message.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -5397,7 +5397,7 @@
             Logs a warning message.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -5433,7 +5433,7 @@
             Logs an error message.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
@@ -5469,7 +5469,7 @@
             Logs an exception message.
             </summary>
             <remarks>
-            © Clayster, 2009-2014
+            © Clayster, 2009-2015
             
             Author: Peter Waher
             </remarks>
