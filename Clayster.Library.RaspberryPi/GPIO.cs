@@ -5,6 +5,16 @@ using System.Runtime.InteropServices;
 namespace Clayster.Library.RaspberryPi
 {
 	/// <summary>
+	/// Enumeration of platforms that can be detected.
+	/// </summary>
+	public enum Platform
+	{
+		RaspberryPi,
+		RaspberryPi2,
+		Unknown
+	}
+
+	/// <summary>
 	/// Class handling General Purpose Input/Output
 	/// </summary>
 	/// <remarks>
@@ -14,11 +24,10 @@ namespace Clayster.Library.RaspberryPi
 	/// </remarks>
 	public static unsafe class GPIO
 	{
-		private const uint BCM2708_PERI_BASE = 0x20000000;
-		private const uint GPIO_BASE = BCM2708_PERI_BASE + 0x200000;
-
 		private const uint PAGE_SIZE = 0x1000;
 		private const uint BLOCK_SIZE = 0x1000;
+
+		private static Platform platform = Platform.Unknown;
 
 		private static int memoryFileHandler;
 		private static readonly void* NULL = (void*)0;
@@ -28,7 +37,9 @@ namespace Clayster.Library.RaspberryPi
 		private static byte* memoryMapGpio;
 		private static volatile uint* gpio;
 
-		private const int O_RDWR = 02;
+		private const int O_RDONLY = 0x0000;
+		private const int O_WRONLY = 0x0001;
+		private const int O_RDWR = 0x0002;
 		private const int O_SYNC = 010000;
 
 		private const int PROT_READ = 0x1;
@@ -41,20 +52,76 @@ namespace Clayster.Library.RaspberryPi
 
 		static GPIO ()
 		{
+			string CpuInfo;
+
+			try
+			{
+				CpuInfo = System.IO.File.ReadAllText("/proc/cpuinfo");
+			}
+			catch (Exception)
+			{
+				throw new Exception ("Unable to get access to /proc/cpuinfo. To determine how to access GPIO, the application "+
+					"needs to know of what platform it runs. To get access to this file, the application needs to have " +
+					"superior access privileges. You can get such privileges by executing the application using the sudo command.");
+			}
+
+			platform = Platform.Unknown;
+			foreach (string Row in CpuInfo.Split(new char[]{'\r','\n'},StringSplitOptions.RemoveEmptyEntries))
+			{
+				if (Row.StartsWith ("Hardware"))
+				{
+					int i = Row.IndexOf (':');
+					if (i > 0)
+					{
+						if (Row.IndexOf ("BCM2708", i) > 0 || Row.IndexOf ("BCM2835", i) > 0)
+						{
+							platform = Platform.RaspberryPi;
+							break;
+						} else if (Row.IndexOf ("BCM2709", i) > 0 || Row.IndexOf ("BCM2836", i) > 0)
+						{
+							platform = Platform.RaspberryPi2;
+							break;
+						} else
+							throw new Exception ("Unsupported platform: " + Row.Substring (i + 1).Trim ());
+					}
+
+					break;
+				}
+			}
+
+			if (platform == Platform.Unknown)
+				throw new Exception ("Could not determine what hardware platform is being used.");
+
+			uint Base;
+
+			switch (platform)
+			{
+				case Platform.RaspberryPi:
+					Base = 0x20000000 + 0x200000;	// BCM2708/BCM2835 base address + GPIO offset.
+					break;
+
+				case Platform.RaspberryPi2:
+					Base = 0x3f000000 + 0x200000;	// BCM2709/BCM2836 base address + GPIO offset.
+					break;
+
+				default:
+					throw new Exception ("Unsupported platform: " + platform.ToString());
+			}
+
 			memoryFileHandler = open ("/dev/mem", O_RDWR | O_SYNC);
 			if (memoryFileHandler < 0)
 			{
 				throw new Exception ("Unable to get access to /dev/mem. Access to GPIO is done through direct access to memory, " +
-				"which is provided through the system file /dev/mem. To get access to this file, the application needs to have " +
-				"superior access privileges. You can get such privileges by executing the application using the sudo command.");
+					"which is provided through the system file /dev/mem. To get access to this file, the application needs to have " +
+					"superior access privileges. You can get such privileges by executing the application using the sudo command.");
 			}
 
-			gpio = MapMemory (GPIO_BASE, ref memoryBlockGpio, ref memoryPageGpio, ref memoryMapGpio);
+			gpio = MapMemory (Base, ref memoryBlockGpio, ref memoryPageGpio, ref memoryMapGpio);
 
 			ticksPerSecond = Stopwatch.Frequency;
 		}
 
-		private static uint* MapMemory (ulong Base, ref byte* MemoryBlock, ref byte* MemoryPage, ref byte* MemoryMap)
+		private static uint* MapMemory (uint Base, ref byte* MemoryBlock, ref byte* MemoryPage, ref byte* MemoryMap)
 		{
 			MemoryBlock = malloc (BLOCK_SIZE + (PAGE_SIZE - 1));
 			if (MemoryBlock == NULL)
@@ -72,7 +139,7 @@ namespace Clayster.Library.RaspberryPi
 				PROT_READ | PROT_WRITE,
 				MAP_SHARED | MAP_FIXED,
 				memoryFileHandler,
-				GPIO_BASE);
+				Base);
 
 			if ((long)MemoryMap < 0)
 				throw new Exception ("Unable to map memory.");
@@ -218,6 +285,14 @@ namespace Clayster.Library.RaspberryPi
 			while ((Stopwatch.GetTimestamp () - Start) < Ticks)
 				;
 			Console.Out.WriteLine ("Waiting done.");
+		}
+
+		/// <summary>
+		/// Contains information about the platform tha thas been detected.
+		/// </summary>
+		public static Platform Platform
+		{
+			get { return platform; }
 		}
 	}
 }
