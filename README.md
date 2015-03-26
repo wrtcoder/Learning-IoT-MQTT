@@ -3,7 +3,7 @@ Learning-IoT-MQTT
 
 Source code for the MQTT chapter of the book [Learning Internet of Things](https://www.packtpub.com/application-development/learning-internet-things).
 
-This chapter covers the basics of the MQTT protocol. It also shows how to use MQTT in the **actuator**, **sensor** and **controller** projects, each running on separate Raspberry Pis.
+This chapter covers the basics of the MQTT protocol. It also shows how to use MQTT in the **actuator**, **sensor** and **controller** projects, each running on separate Raspberry Pis or Raspberry Pi 2s.
 
 The source code contains the following projects:
 
@@ -14,10 +14,10 @@ The source code contains the following projects:
 |**Controller**                   | The controller project. Controls the actuator based on input received from the sensor.|
 |**Sensor**                       | The sensor project. Measures and logs temperature, light and movement.|
 |**Clayster.Library.IoT**         | Library handling basic interoperability for the Internet of Things.|
-|**Clayster.Library.RaspberryPi** | Library containing classes handling different types of devices connected to the Raspberry Pi interfaced through GPIO.|
+|**Clayster.Library.RaspberryPi** | Library containing classes handling different types of devices connected to the Raspberry Pi or Raspberry Pi 2 interfaced through GPIO.|
 |**Clayster**                     | Contains libraries that facilitate data persistence, event logging, communication, localization and scripting.|
 
-Projects are developed in C# and compiled using [Xamarin](http://xamarin.com/). They are executed on Raspberry Pi using [MONO](http://www.mono-project.com/). By modifying the classes in Clayster.Library.RaspberryPi, the code can be made to run on other hardware platforms as well. This library is the only library that contains code specifically written for the Raspberry Pi.
+Projects are developed in C# and compiled using [Xamarin](http://xamarin.com/). They are executed on Raspberry Pi or Raspberry Pi 2 using [MONO](http://www.mono-project.com/). By modifying the classes in Clayster.Library.RaspberryPi, the code can be made to run on other hardware platforms as well. This library is the only library that contains code specifically written for the Raspberry Pi and Raspberry Pi 2.
 
 Chapters of the book:
 
